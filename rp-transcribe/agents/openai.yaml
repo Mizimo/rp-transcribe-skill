@@ -1,0 +1,4 @@
+interface:
+  display_name: "RP Transcribe"
+  short_description: "Local RP audio, Japanese transcripts, and Chinese translations"
+  default_prompt: "Use $rp-transcribe to process this local lesson recording into MP3, reviewed Japanese text, and Traditional Chinese text."

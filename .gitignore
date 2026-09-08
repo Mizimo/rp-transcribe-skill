@@ -1,0 +1,11 @@
+.runtime/
+__pycache__/
+*.pyc
+.DS_Store
+*.mp4
+*.mp3
+*.wav
+*.raw.txt
+*.segments.json
+*.review.json
+.venv/
